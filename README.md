@@ -1,6 +1,13 @@
 
 # React demos
 
+## react一般和flux结合使用
+    - flux最常见的包含
+            - redux
+            - reflux
+            - mobx
+    - 写react 更多人 喜欢用的是 react-redux + react + react-router + webpack + typescript + node + 一种UI  。。。
+
 Based on
 - [React](https://github.com/facebook/react/tree/master/docs/docs)
 - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html) by ruanyifeng
